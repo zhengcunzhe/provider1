@@ -1,4 +1,4 @@
-package com.zcz.provider.controller;
+package com.zcz.provider1.controller;
 
 import com.zcz.provider.service.HealthStatusService;
 import org.springframework.beans.factory.annotation.Autowired;
