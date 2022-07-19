@@ -1,4 +1,4 @@
-package com.zcz.provider.service;
+package com.zcz.provider1.service;
 
 import org.springframework.boot.actuate.health.Health;
 import org.springframework.boot.actuate.health.HealthIndicator;

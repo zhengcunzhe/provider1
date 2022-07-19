@@ -1,6 +1,6 @@
 package com.zcz.provider1.controller;
 
-import com.zcz.provider.service.HealthStatusService;
+import com.zcz.provider1.service.HealthStatusService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
